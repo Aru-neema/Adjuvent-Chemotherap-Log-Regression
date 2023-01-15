@@ -1,4 +1,4 @@
-# Adjuvent-Chemotherap-Log-Regression
+# Adjuvent-Chemotherapy-Log-Regression
 
 After reading the documentation, the audience (beginners, students, aspirational data analyst) will know how to do the following tasks:
 
